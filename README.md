@@ -27,4 +27,10 @@ The database generally updates daily. To make sure we are on a consistent load, 
 
 ## File Description:
 @todo
-1.
+1. eda_0914.ipynb (Manual EDA on the dataset)
+2. eda_profiling_0924.ipynb (EDA Profiling with ydata_profiling generated Profile Report)
+3. EDA_revised_20230926.ipynb (revised manual EDA)
+4. supervised.ipynb (supervised learning tasks)
+5. unsupervised.ipynb (unsupervised learning tasks)
+6. ydata_profiling_report.html (auto generated EDA profiling report)
+7. Team10_Standup_20230928.ipynb (standup notebook)
